@@ -148,4 +148,16 @@
    <object id="1" x="0" y="0" width="16" height="16"/>
   </objectgroup>
  </tile>
+ <tile id="105">
+  <objectgroup draworder="index" id="2">
+   <object id="1" x="0.0852765" y="0.872085" width="15.9147" height="15.1279"/>
+   <object id="4" x="9.89207" y="0.596935">
+    <properties>
+     <property name="unity:IsTrigger" value="true"/>
+     <property name="unity:layer" value="Hazard"/>
+    </properties>
+    <polygon points="0,0 -9.72152,5.7988 -9.8068,12.7062 -7.54697,15.2645 -1.27915,15.3924 6.09727,9.76416 6.09727,1.87608 4.30646,0.0852765"/>
+   </object>
+  </objectgroup>
+ </tile>
 </tileset>
